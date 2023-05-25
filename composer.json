@@ -1,8 +1,8 @@
 {
-    "name": "sanan/entrust",
+    "name": "zizaco/entrust",
     "description": "This package is an updated version of zizaco/entrust that works upto laravel 8.",
     "keywords": ["laravel","illuminate","auth","roles","acl","permission"],
-    "version": "1.0",
+    "version": "dev-master",
     "license": "MIT",
     "authors": [
         {
